@@ -1,2 +1,3 @@
-# smm-desk-export
-Private ZIP export of the current SMM desk app
+# SMM Desk
+
+Download: smm-desk-complete-20260926-124711.zip
